@@ -1,0 +1,6 @@
+[2022-06-25 10:35:13,751] [log.py|__console] [line:40] INFO    : 输入手机号-- .phone_num .el-input__inner
+[2022-06-25 10:35:13,838] [log.py|__console] [line:40] INFO    : 输入密码-- .login_mode .el-input__inner
+[2022-06-25 10:35:13,909] [log.py|__console] [line:40] INFO    : 点击登录-- #pane-phoneLogin button
+[2022-06-25 10:35:14,667] [log.py|__console] [line:46] ERROR   : Message: element not interactable
+  (Session info: chrome=100.0.4896.127)
+

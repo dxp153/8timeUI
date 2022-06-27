@@ -1,0 +1,22 @@
+[2022-06-25 10:15:23,717] [log.py|__console] [line:40] INFO    : 输入手机号-- .phone_num .el-input__inner
+[2022-06-25 10:15:23,793] [log.py|__console] [line:40] INFO    : 输入密码-- .login_mode .el-input__inner
+[2022-06-25 10:15:23,868] [log.py|__console] [line:40] INFO    : 点击登录-- #pane-phoneLogin button
+[2022-06-25 10:15:24,564] [log.py|__console] [line:46] ERROR   : Message: element not interactable
+  (Session info: chrome=100.0.4896.127)
+
+[2022-06-25 10:15:25,374] [log.py|__console] [line:40] INFO    : 输入手机号-- .phone_num .el-input__inner
+[2022-06-25 10:15:40,561] [log.py|__console] [line:46] ERROR   : <pages.login.Login object at 0x00000000039A3820>页面未找到('css selector', '.phone_num .el-input__inner')元素
+[2022-06-25 10:15:40,562] [log.py|__console] [line:46] ERROR   : <pages.login.Login object at 0x00000000039A3820> 页面未找到 ('css selector', '.phone_num .el-input__inner') 元素
+[2022-06-25 10:15:40,563] [log.py|__console] [line:40] INFO    : 输入密码-- .login_mode .el-input__inner
+[2022-06-25 10:15:55,753] [log.py|__console] [line:46] ERROR   : <pages.login.Login object at 0x00000000039A3820>页面未找到('css selector', '.login_mode .el-input__inner')元素
+[2022-06-25 10:15:55,754] [log.py|__console] [line:46] ERROR   : <pages.login.Login object at 0x00000000039A3820> 页面未找到 ('css selector', '.login_mode .el-input__inner') 元素
+[2022-06-25 10:15:55,755] [log.py|__console] [line:40] INFO    : 点击登录-- #pane-phoneLogin button
+[2022-06-25 10:16:10,952] [log.py|__console] [line:46] ERROR   : <pages.login.Login object at 0x00000000039A3820>页面未找到('css selector', '#pane-phoneLogin button')元素
+[2022-06-25 10:16:10,953] [log.py|__console] [line:46] ERROR   : 'NoneType' object has no attribute 'click'
+[2022-06-25 10:16:11,079] [log.py|__console] [line:46] ERROR   : Message: element not interactable
+  (Session info: chrome=100.0.4896.127)
+
+[2022-06-25 10:16:11,986] [log.py|__console] [line:40] INFO    : 输入手机号-- .phone_num .el-input__inner
+[2022-06-25 10:16:27,177] [log.py|__console] [line:46] ERROR   : <pages.login.Login object at 0x00000000039A3820>页面未找到('css selector', '.phone_num .el-input__inner')元素
+[2022-06-25 10:16:27,178] [log.py|__console] [line:46] ERROR   : <pages.login.Login object at 0x00000000039A3820> 页面未找到 ('css selector', '.phone_num .el-input__inner') 元素
+[2022-06-25 10:16:27,179] [log.py|__console] [line:40] INFO    : 输入密码-- .login_mode .el-input__inner

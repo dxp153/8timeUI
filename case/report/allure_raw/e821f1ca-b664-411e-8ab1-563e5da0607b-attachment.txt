@@ -1,0 +1,4 @@
+定位方式-》css selector,value值-》.phone_num .el-input__inner
+定位方式-》css selector,value值-》.login_mode .el-input__inner
+定位方式-》css selector,value值-》#pane-phoneLogin button
+定位方式-》css selector,value值-》.el-menu-item.is-active span

@@ -1,0 +1,10 @@
+[2022-06-27 15:24:08,352] [log.py|__console] [line:40] INFO    : 输入手机号-- .phone_num .el-input__inner
+[2022-06-27 15:24:08,441] [log.py|__console] [line:40] INFO    : 输入密码-- .login_mode .el-input__inner
+[2022-06-27 15:24:08,521] [log.py|__console] [line:40] INFO    : 点击登录-- #pane-phoneLogin button
+[2022-06-27 15:24:10,325] [log.py|__console] [line:40] INFO    : 输入手机号-- .phone_num .el-input__inner
+[2022-06-27 15:24:30,842] [log.py|__console] [line:46] ERROR   : <pages.login.Login object at 0x00000000037EAA90>页面未找到('css selector', '.phone_num .el-input__inner')元素
+[2022-06-27 15:24:31,455] [log.py|__console] [line:40] INFO    : 输入手机号-- .phone_num .el-input__inner
+[2022-06-27 15:24:51,390] [log.py|__console] [line:46] ERROR   : <pages.login.Login object at 0x00000000037EAA90>页面未找到('css selector', '.phone_num .el-input__inner')元素
+[2022-06-27 15:24:57,385] [log.py|__console] [line:40] INFO    : 输入手机号-- .phone_num .el-input__inner
+[2022-06-27 15:24:57,465] [log.py|__console] [line:40] INFO    : 输入密码-- .login_mode .el-input__inner
+[2022-06-27 15:24:57,535] [log.py|__console] [line:40] INFO    : 点击登录-- #pane-phoneLogin button

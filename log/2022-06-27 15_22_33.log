@@ -1,0 +1,9 @@
+[2022-06-27 15:22:39,169] [log.py|__console] [line:40] INFO    : 输入手机号-- .phone_num .el-input__inner
+[2022-06-27 15:22:39,260] [log.py|__console] [line:40] INFO    : 输入密码-- .login_mode .el-input__inner
+[2022-06-27 15:22:39,338] [log.py|__console] [line:40] INFO    : 点击登录-- #pane-phoneLogin button
+[2022-06-27 15:22:42,685] [log.py|__console] [line:40] INFO    : 输入手机号-- .phone_num .el-input__inner
+[2022-06-27 15:23:03,197] [log.py|__console] [line:46] ERROR   : <pages.login.Login object at 0x00000000038C84F0>页面未找到('css selector', '.phone_num .el-input__inner')元素
+[2022-06-27 15:23:04,244] [log.py|__console] [line:40] INFO    : 输入手机号-- .phone_num .el-input__inner
+[2022-06-27 15:23:24,759] [log.py|__console] [line:46] ERROR   : <pages.login.Login object at 0x00000000038C84F0>页面未找到('css selector', '.phone_num .el-input__inner')元素
+[2022-06-27 15:23:25,482] [log.py|__console] [line:40] INFO    : 输入手机号-- .phone_num .el-input__inner
+[2022-06-27 15:23:38,603] [log.py|__console] [line:46] ERROR   : <pages.login.Login object at 0x00000000038C84F0>页面未找到('css selector', '.phone_num .el-input__inner')元素

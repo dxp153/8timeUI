@@ -1,0 +1,6 @@
+[2022-06-27 15:04:53,167] [log.py|__console] [line:40] INFO    : 输入手机号-- .phone_num .el-input__inner
+[2022-06-27 15:04:53,246] [log.py|__console] [line:40] INFO    : 输入密码-- .login_mode .el-input__inner
+[2022-06-27 15:04:53,312] [log.py|__console] [line:40] INFO    : 点击登录-- #pane-phoneLogin button
+[2022-06-27 15:05:09,791] [log.py|__console] [line:46] ERROR   : <pages.switch_module.Switch_Module object at 0x00000000035BA580>页面未找到('xpath', "//li[@class='el-submenu is-opened' or @class='el-submenu is-active is-opened']//span[text()='付费管理']")元素
+[2022-06-27 15:05:25,584] [log.py|__console] [line:46] ERROR   : <pages.switch_module.Switch_Module object at 0x00000000035BA580>页面未找到('xpath', "//li[@class='el-submenu is-opened' or @class='el-submenu is-active is-opened']//span[text()='操作日志']")元素
+[2022-06-27 15:05:41,302] [log.py|__console] [line:46] ERROR   : <pages.switch_module.Switch_Module object at 0x00000000035BA580>页面未找到('xpath', "//li[@class='el-submenu is-opened' or @class='el-submenu is-active is-opened']//span[text()='企业自定义']")元素

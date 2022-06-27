@@ -1,0 +1,9 @@
+定位方式-》css selector,value值-》.phone_num .el-input__inner
+定位方式-》css selector,value值-》.login_mode .el-input__inner
+定位方式-》css selector,value值-》#pane-phoneLogin button
+定位方式-》xpath,value值-》//span[text()='考勤管理']/../..
+定位方式-》xpath,value值-》//span[text()='考勤管理']/../..
+定位方式-》xpath,value值-》//span[text()='考勤管理']
+定位方式-》xpath,value值-》//li[@class='el-submenu is-opened' or @class='el-submenu is-active is-opened']//span[text()='考勤设置']
+定位方式-》css selector,value值-》.avatar-wrapper.el-dropdown-selfdefine
+定位方式-》xpath,value值-》//span[text()='退出登录']/..

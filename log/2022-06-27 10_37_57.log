@@ -1,0 +1,120 @@
+[2022-06-27 10:38:01,875] [log.py|__console] [line:40] INFO    : 输入手机号-- .phone_num .el-input__inner
+[2022-06-27 10:38:01,951] [log.py|__console] [line:40] INFO    : 输入密码-- .login_mode .el-input__inner
+[2022-06-27 10:38:02,017] [log.py|__console] [line:40] INFO    : 点击登录-- #pane-phoneLogin button
+[2022-06-27 10:38:02,773] [log.py|__console] [line:46] ERROR   : Message: element not interactable
+  (Session info: chrome=100.0.4896.127)
+
+[2022-06-27 10:38:03,802] [log.py|__console] [line:40] INFO    : 输入手机号-- .phone_num .el-input__inner
+[2022-06-27 10:38:19,000] [log.py|__console] [line:46] ERROR   : <pages.login.Login object at 0x00000000036562B0>页面未找到('css selector', '.phone_num .el-input__inner')元素
+[2022-06-27 10:38:19,001] [log.py|__console] [line:46] ERROR   : <pages.login.Login object at 0x00000000036562B0> 页面未找到 ('css selector', '.phone_num .el-input__inner') 元素
+[2022-06-27 10:38:19,002] [log.py|__console] [line:40] INFO    : 输入密码-- .login_mode .el-input__inner
+[2022-06-27 10:38:34,208] [log.py|__console] [line:46] ERROR   : <pages.login.Login object at 0x00000000036562B0>页面未找到('css selector', '.login_mode .el-input__inner')元素
+[2022-06-27 10:38:34,209] [log.py|__console] [line:46] ERROR   : <pages.login.Login object at 0x00000000036562B0> 页面未找到 ('css selector', '.login_mode .el-input__inner') 元素
+[2022-06-27 10:38:34,209] [log.py|__console] [line:40] INFO    : 点击登录-- #pane-phoneLogin button
+[2022-06-27 10:38:49,390] [log.py|__console] [line:46] ERROR   : <pages.login.Login object at 0x00000000036562B0>页面未找到('css selector', '#pane-phoneLogin button')元素
+[2022-06-27 10:38:49,391] [log.py|__console] [line:46] ERROR   : 'NoneType' object has no attribute 'click'
+[2022-06-27 10:39:04,677] [log.py|__console] [line:46] ERROR   : <pages.switch_module.Switch_Module object at 0x0000000003656640>页面未找到('xpath', "//li[@class='el-submenu is-opened' or @class='el-submenu is-active is-opened']//span[text()='企业账户']")元素
+[2022-06-27 10:39:04,678] [log.py|__console] [line:46] ERROR   : 'NoneType' object has no attribute 'click'
+[2022-06-27 10:39:19,963] [log.py|__console] [line:46] ERROR   : <pages.switch_module.Switch_Module object at 0x0000000003656640>页面未找到('xpath', "//li[@class='el-submenu is-opened' or @class='el-submenu is-active is-opened']//span[text()='付费管理']")元素
+[2022-06-27 10:39:19,964] [log.py|__console] [line:46] ERROR   : 'NoneType' object has no attribute 'click'
+[2022-06-27 10:39:35,226] [log.py|__console] [line:46] ERROR   : <pages.switch_module.Switch_Module object at 0x0000000003656640>页面未找到('xpath', "//li[@class='el-submenu is-opened' or @class='el-submenu is-active is-opened']//span[text()='短信管理']")元素
+[2022-06-27 10:39:35,227] [log.py|__console] [line:46] ERROR   : 'NoneType' object has no attribute 'click'
+[2022-06-27 10:39:50,492] [log.py|__console] [line:46] ERROR   : <pages.switch_module.Switch_Module object at 0x0000000003656640>页面未找到('xpath', "//li[@class='el-submenu is-opened' or @class='el-submenu is-active is-opened']//span[text()='操作日志']")元素
+[2022-06-27 10:39:50,492] [log.py|__console] [line:46] ERROR   : 'NoneType' object has no attribute 'click'
+[2022-06-27 10:40:05,767] [log.py|__console] [line:46] ERROR   : <pages.switch_module.Switch_Module object at 0x0000000003656640>页面未找到('xpath', "//li[@class='el-submenu is-opened' or @class='el-submenu is-active is-opened']//span[text()='意见反馈']")元素
+[2022-06-27 10:40:05,768] [log.py|__console] [line:46] ERROR   : 'NoneType' object has no attribute 'click'
+[2022-06-27 10:40:21,031] [log.py|__console] [line:46] ERROR   : <pages.switch_module.Switch_Module object at 0x0000000003656640>页面未找到('xpath', "//li[@class='el-submenu is-opened' or @class='el-submenu is-active is-opened']//span[text()='企业自定义']")元素
+[2022-06-27 10:40:21,032] [log.py|__console] [line:46] ERROR   : 'NoneType' object has no attribute 'click'
+[2022-06-27 10:40:21,643] [log.py|__console] [line:40] INFO    : 输入手机号-- .phone_num .el-input__inner
+[2022-06-27 10:40:36,827] [log.py|__console] [line:46] ERROR   : <pages.login.Login object at 0x00000000036562B0>页面未找到('css selector', '.phone_num .el-input__inner')元素
+[2022-06-27 10:40:36,828] [log.py|__console] [line:46] ERROR   : <pages.login.Login object at 0x00000000036562B0> 页面未找到 ('css selector', '.phone_num .el-input__inner') 元素
+[2022-06-27 10:40:36,828] [log.py|__console] [line:40] INFO    : 输入密码-- .login_mode .el-input__inner
+[2022-06-27 10:40:52,011] [log.py|__console] [line:46] ERROR   : <pages.login.Login object at 0x00000000036562B0>页面未找到('css selector', '.login_mode .el-input__inner')元素
+[2022-06-27 10:40:52,012] [log.py|__console] [line:46] ERROR   : <pages.login.Login object at 0x00000000036562B0> 页面未找到 ('css selector', '.login_mode .el-input__inner') 元素
+[2022-06-27 10:40:52,013] [log.py|__console] [line:40] INFO    : 点击登录-- #pane-phoneLogin button
+[2022-06-27 10:41:07,193] [log.py|__console] [line:46] ERROR   : <pages.login.Login object at 0x00000000036562B0>页面未找到('css selector', '#pane-phoneLogin button')元素
+[2022-06-27 10:41:07,193] [log.py|__console] [line:46] ERROR   : 'NoneType' object has no attribute 'click'
+[2022-06-27 10:41:07,311] [log.py|__console] [line:46] ERROR   : Message: element not interactable
+  (Session info: chrome=100.0.4896.127)
+
+[2022-06-27 10:41:08,761] [log.py|__console] [line:40] INFO    : 输入手机号-- .phone_num .el-input__inner
+[2022-06-27 10:41:23,934] [log.py|__console] [line:46] ERROR   : <pages.login.Login object at 0x00000000036562B0>页面未找到('css selector', '.phone_num .el-input__inner')元素
+[2022-06-27 10:41:23,935] [log.py|__console] [line:46] ERROR   : <pages.login.Login object at 0x00000000036562B0> 页面未找到 ('css selector', '.phone_num .el-input__inner') 元素
+[2022-06-27 10:41:23,935] [log.py|__console] [line:40] INFO    : 输入密码-- .login_mode .el-input__inner
+[2022-06-27 10:41:39,114] [log.py|__console] [line:46] ERROR   : <pages.login.Login object at 0x00000000036562B0>页面未找到('css selector', '.login_mode .el-input__inner')元素
+[2022-06-27 10:41:39,115] [log.py|__console] [line:46] ERROR   : <pages.login.Login object at 0x00000000036562B0> 页面未找到 ('css selector', '.login_mode .el-input__inner') 元素
+[2022-06-27 10:41:39,115] [log.py|__console] [line:40] INFO    : 点击登录-- #pane-phoneLogin button
+[2022-06-27 10:41:54,296] [log.py|__console] [line:46] ERROR   : <pages.login.Login object at 0x00000000036562B0>页面未找到('css selector', '#pane-phoneLogin button')元素
+[2022-06-27 10:41:54,296] [log.py|__console] [line:46] ERROR   : 'NoneType' object has no attribute 'click'
+[2022-06-27 10:41:54,414] [log.py|__console] [line:46] ERROR   : Message: element not interactable
+  (Session info: chrome=100.0.4896.127)
+
+[2022-06-27 10:41:55,075] [log.py|__console] [line:40] INFO    : 输入手机号-- .phone_num .el-input__inner
+[2022-06-27 10:42:10,266] [log.py|__console] [line:46] ERROR   : <pages.login.Login object at 0x00000000036562B0>页面未找到('css selector', '.phone_num .el-input__inner')元素
+[2022-06-27 10:42:10,267] [log.py|__console] [line:46] ERROR   : <pages.login.Login object at 0x00000000036562B0> 页面未找到 ('css selector', '.phone_num .el-input__inner') 元素
+[2022-06-27 10:42:10,267] [log.py|__console] [line:40] INFO    : 输入密码-- .login_mode .el-input__inner
+[2022-06-27 10:42:25,463] [log.py|__console] [line:46] ERROR   : <pages.login.Login object at 0x00000000036562B0>页面未找到('css selector', '.login_mode .el-input__inner')元素
+[2022-06-27 10:42:25,464] [log.py|__console] [line:46] ERROR   : <pages.login.Login object at 0x00000000036562B0> 页面未找到 ('css selector', '.login_mode .el-input__inner') 元素
+[2022-06-27 10:42:25,464] [log.py|__console] [line:40] INFO    : 点击登录-- #pane-phoneLogin button
+[2022-06-27 10:42:40,647] [log.py|__console] [line:46] ERROR   : <pages.login.Login object at 0x00000000036562B0>页面未找到('css selector', '#pane-phoneLogin button')元素
+[2022-06-27 10:42:40,647] [log.py|__console] [line:46] ERROR   : 'NoneType' object has no attribute 'click'
+[2022-06-27 10:42:40,736] [log.py|__console] [line:46] ERROR   : Message: element not interactable
+  (Session info: chrome=100.0.4896.127)
+
+[2022-06-27 10:42:40,796] [log.py|__console] [line:46] ERROR   : Message: element not interactable
+  (Session info: chrome=100.0.4896.127)
+
+[2022-06-27 10:42:42,111] [log.py|__console] [line:40] INFO    : 输入手机号-- .phone_num .el-input__inner
+[2022-06-27 10:42:57,291] [log.py|__console] [line:46] ERROR   : <pages.login.Login object at 0x00000000036562B0>页面未找到('css selector', '.phone_num .el-input__inner')元素
+[2022-06-27 10:42:57,292] [log.py|__console] [line:46] ERROR   : <pages.login.Login object at 0x00000000036562B0> 页面未找到 ('css selector', '.phone_num .el-input__inner') 元素
+[2022-06-27 10:42:57,293] [log.py|__console] [line:40] INFO    : 输入密码-- .login_mode .el-input__inner
+[2022-06-27 10:43:12,477] [log.py|__console] [line:46] ERROR   : <pages.login.Login object at 0x00000000036562B0>页面未找到('css selector', '.login_mode .el-input__inner')元素
+[2022-06-27 10:43:12,478] [log.py|__console] [line:46] ERROR   : <pages.login.Login object at 0x00000000036562B0> 页面未找到 ('css selector', '.login_mode .el-input__inner') 元素
+[2022-06-27 10:43:12,479] [log.py|__console] [line:40] INFO    : 点击登录-- #pane-phoneLogin button
+[2022-06-27 10:43:27,667] [log.py|__console] [line:46] ERROR   : <pages.login.Login object at 0x00000000036562B0>页面未找到('css selector', '#pane-phoneLogin button')元素
+[2022-06-27 10:43:27,668] [log.py|__console] [line:46] ERROR   : 'NoneType' object has no attribute 'click'
+[2022-06-27 10:43:27,783] [log.py|__console] [line:46] ERROR   : Message: element not interactable
+  (Session info: chrome=100.0.4896.127)
+
+[2022-06-27 10:43:28,837] [log.py|__console] [line:40] INFO    : 输入手机号-- .phone_num .el-input__inner
+[2022-06-27 10:43:44,016] [log.py|__console] [line:46] ERROR   : <pages.login.Login object at 0x00000000036562B0>页面未找到('css selector', '.phone_num .el-input__inner')元素
+[2022-06-27 10:43:44,017] [log.py|__console] [line:46] ERROR   : <pages.login.Login object at 0x00000000036562B0> 页面未找到 ('css selector', '.phone_num .el-input__inner') 元素
+[2022-06-27 10:43:44,018] [log.py|__console] [line:40] INFO    : 输入密码-- .login_mode .el-input__inner
+[2022-06-27 10:43:59,195] [log.py|__console] [line:46] ERROR   : <pages.login.Login object at 0x00000000036562B0>页面未找到('css selector', '.login_mode .el-input__inner')元素
+[2022-06-27 10:43:59,195] [log.py|__console] [line:46] ERROR   : <pages.login.Login object at 0x00000000036562B0> 页面未找到 ('css selector', '.login_mode .el-input__inner') 元素
+[2022-06-27 10:43:59,197] [log.py|__console] [line:40] INFO    : 点击登录-- #pane-phoneLogin button
+[2022-06-27 10:44:14,394] [log.py|__console] [line:46] ERROR   : <pages.login.Login object at 0x00000000036562B0>页面未找到('css selector', '#pane-phoneLogin button')元素
+[2022-06-27 10:44:14,395] [log.py|__console] [line:46] ERROR   : 'NoneType' object has no attribute 'click'
+[2022-06-27 10:44:14,454] [log.py|__console] [line:46] ERROR   : Message: element not interactable
+  (Session info: chrome=100.0.4896.127)
+
+[2022-06-27 10:44:29,716] [log.py|__console] [line:46] ERROR   : <pages.switch_module.Switch_Module object at 0x0000000003656640>页面未找到('xpath', "//li[@class='el-submenu is-opened' or @class='el-submenu is-active is-opened']//span[text()='招聘中']")元素
+[2022-06-27 10:44:29,717] [log.py|__console] [line:46] ERROR   : 'NoneType' object has no attribute 'click'
+[2022-06-27 10:44:29,763] [log.py|__console] [line:46] ERROR   : Message: element not interactable
+  (Session info: chrome=100.0.4896.127)
+
+[2022-06-27 10:44:44,973] [log.py|__console] [line:46] ERROR   : <pages.switch_module.Switch_Module object at 0x0000000003656640>页面未找到('xpath', "//li[@class='el-submenu is-opened' or @class='el-submenu is-active is-opened']//span[text()='已淘汰']")元素
+[2022-06-27 10:44:44,974] [log.py|__console] [line:46] ERROR   : 'NoneType' object has no attribute 'click'
+[2022-06-27 10:44:45,021] [log.py|__console] [line:46] ERROR   : Message: element not interactable
+  (Session info: chrome=100.0.4896.127)
+
+[2022-06-27 10:45:00,237] [log.py|__console] [line:46] ERROR   : <pages.switch_module.Switch_Module object at 0x0000000003656640>页面未找到('xpath', "//li[@class='el-submenu is-opened' or @class='el-submenu is-active is-opened']//span[text()='招聘职位']")元素
+[2022-06-27 10:45:00,237] [log.py|__console] [line:46] ERROR   : 'NoneType' object has no attribute 'click'
+[2022-06-27 10:45:00,283] [log.py|__console] [line:46] ERROR   : Message: element not interactable
+  (Session info: chrome=100.0.4896.127)
+
+[2022-06-27 10:45:15,520] [log.py|__console] [line:46] ERROR   : <pages.switch_module.Switch_Module object at 0x0000000003656640>页面未找到('xpath', "//li[@class='el-submenu is-opened' or @class='el-submenu is-active is-opened']//span[text()='人才库']")元素
+[2022-06-27 10:45:15,520] [log.py|__console] [line:46] ERROR   : 'NoneType' object has no attribute 'click'
+[2022-06-27 10:45:16,111] [log.py|__console] [line:40] INFO    : 输入手机号-- .phone_num .el-input__inner
+[2022-06-27 10:45:31,297] [log.py|__console] [line:46] ERROR   : <pages.login.Login object at 0x00000000036562B0>页面未找到('css selector', '.phone_num .el-input__inner')元素
+[2022-06-27 10:45:31,298] [log.py|__console] [line:46] ERROR   : <pages.login.Login object at 0x00000000036562B0> 页面未找到 ('css selector', '.phone_num .el-input__inner') 元素
+[2022-06-27 10:45:31,298] [log.py|__console] [line:40] INFO    : 输入密码-- .login_mode .el-input__inner
+[2022-06-27 10:45:40,085] [log.py|__console] [line:46] ERROR   : <pages.login.Login object at 0x00000000036562B0>页面未找到('css selector', '.login_mode .el-input__inner')元素
+[2022-06-27 10:45:40,086] [log.py|__console] [line:46] ERROR   : <pages.login.Login object at 0x00000000036562B0> 页面未找到 ('css selector', '.login_mode .el-input__inner') 元素
+[2022-06-27 10:45:40,087] [log.py|__console] [line:40] INFO    : 点击登录-- #pane-phoneLogin button
+[2022-06-27 10:45:44,092] [log.py|__console] [line:46] ERROR   : <pages.login.Login object at 0x00000000036562B0>页面未找到('css selector', '#pane-phoneLogin button')元素
+[2022-06-27 10:45:44,093] [log.py|__console] [line:46] ERROR   : 'NoneType' object has no attribute 'click'
+[2022-06-27 10:45:52,095] [log.py|__console] [line:46] ERROR   : <pages.switch_module.Switch_Module object at 0x0000000003656640>页面未找到('xpath', "//span[text()='OA讯息']/../..")元素
+[2022-06-27 10:46:00,718] [log.py|__console] [line:46] ERROR   : <pages.switch_module.Switch_Module object at 0x0000000003656640>页面未找到('xpath', "//span[text()='OA讯息']/../..")元素
+[2022-06-27 10:46:08,854] [log.py|__console] [line:46] ERROR   : <pages.switch_module.Switch_Module object at 0x0000000003656640>页面未找到('xpath', "//span[text()='OA讯息']/../..")元素
+[2022-06-27 10:46:16,983] [log.py|__console] [line:46] ERROR   : <pages.switch_module.Switch_Module object at 0x0000000003656640>页面未找到('xpath', "//span[text()='OA讯息']/../..")元素

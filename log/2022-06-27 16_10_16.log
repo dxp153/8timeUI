@@ -1,0 +1,5 @@
+[2022-06-27 16:10:20,906] [log.py|__console] [line:40] INFO    : 输入手机号-- .phone_num .el-input__inner
+[2022-06-27 16:10:20,990] [log.py|__console] [line:40] INFO    : 输入密码-- .login_mode .el-input__inner
+[2022-06-27 16:10:21,069] [log.py|__console] [line:40] INFO    : 点击登录-- #pane-phoneLogin button
+[2022-06-27 16:10:21,132] [log.py|__console] [line:40] INFO    : 点击个人审批的快捷跳转-- //div[text()='个人审批']/..
+[2022-06-27 16:10:21,803] [log.py|__console] [line:40] INFO    : 定位工作台侧边栏菜单-- .el-menu-item.is-active span

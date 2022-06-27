@@ -1,0 +1,5 @@
+[2022-06-24 11:58:56,877] [log.py|__console] [line:40] INFO    : 输入手机号-- .phone_num .el-input__inner
+[2022-06-24 11:58:56,951] [log.py|__console] [line:40] INFO    : 输入密码-- .login_mode .el-input__inner
+[2022-06-24 11:58:57,017] [log.py|__console] [line:40] INFO    : 点击登录-- #pane-phoneLogin button
+[2022-06-24 11:58:58,061] [log.py|__console] [line:40] INFO    : 点击最新的一条消息提醒-- .news_title.clearfix+div
+[2022-06-24 11:58:59,129] [log.py|__console] [line:40] INFO    : 点击最新的一条消息提醒-- .el-dialog__body+div .dialog-footer button

@@ -1,0 +1,20 @@
+[32mINFO    [0m root:log.py:40 点击最新的一条消息提醒-- .news_title.clearfix+div
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:58018/session/1368c8fbf1a74ec530c957691d1f2f66/element {"using": "css selector", "value": ".news_title.clearfix+div"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:58018 "POST /session/1368c8fbf1a74ec530c957691d1f2f66/element HTTP/1.1" 404 1024
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[31m[1mERROR   [0m root:log.py:46 <pages.workbench.Workbench object at 0x0000000003511F10>页面未找到('css selector', '.news_title.clearfix+div')元素
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:58018/session/1368c8fbf1a74ec530c957691d1f2f66/element {"using": "css selector", "value": ".avatar-wrapper.el-dropdown-selfdefine"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:58018 "POST /session/1368c8fbf1a74ec530c957691d1f2f66/element HTTP/1.1" 200 88
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:58018/session/1368c8fbf1a74ec530c957691d1f2f66/element/c7497bdf-4047-4c89-b9a2-50ecb89054d1/click {"id": "c7497bdf-4047-4c89-b9a2-50ecb89054d1"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:58018 "POST /session/1368c8fbf1a74ec530c957691d1f2f66/element/c7497bdf-4047-4c89-b9a2-50ecb89054d1/click HTTP/1.1" 200 14
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:58018/session/1368c8fbf1a74ec530c957691d1f2f66/element {"using": "xpath", "value": "//span[text()='\u9000\u51fa\u767b\u5f55']/.."}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:58018 "POST /session/1368c8fbf1a74ec530c957691d1f2f66/element HTTP/1.1" 200 88
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:58018/session/1368c8fbf1a74ec530c957691d1f2f66/element/7025a1a1-405c-4a31-a41a-0119e192dc92/click {"id": "7025a1a1-405c-4a31-a41a-0119e192dc92"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:58018 "POST /session/1368c8fbf1a74ec530c957691d1f2f66/element/7025a1a1-405c-4a31-a41a-0119e192dc92/click HTTP/1.1" 200 14
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 DELETE http://127.0.0.1:58018/session/1368c8fbf1a74ec530c957691d1f2f66 {}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:58018 "DELETE /session/1368c8fbf1a74ec530c957691d1f2f66 HTTP/1.1" 200 14
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request

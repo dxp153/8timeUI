@@ -1,0 +1,3 @@
+定位方式-》css selector,value值-》.news_title.clearfix+div
+定位方式-》css selector,value值-》.avatar-wrapper.el-dropdown-selfdefine
+定位方式-》xpath,value值-》//span[text()='退出登录']/..

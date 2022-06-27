@@ -1,0 +1,11 @@
+[2022-06-27 10:53:12,400] [log.py|__console] [line:40] INFO    : 输入手机号-- .phone_num .el-input__inner
+[2022-06-27 10:53:12,476] [log.py|__console] [line:40] INFO    : 输入密码-- .login_mode .el-input__inner
+[2022-06-27 10:53:12,549] [log.py|__console] [line:40] INFO    : 点击登录-- #pane-phoneLogin button
+[2022-06-27 10:53:13,290] [log.py|__console] [line:46] ERROR   : Message: element not interactable
+  (Session info: chrome=100.0.4896.127)
+
+[2022-06-27 10:53:28,832] [log.py|__console] [line:46] ERROR   : <pages.switch_module.Switch_Module object at 0x00000000039B8A30>页面未找到('xpath', "//li[@class='el-submenu is-opened' or @class='el-submenu is-active is-opened']//span[text()='付费管理']")元素
+[2022-06-27 10:53:28,833] [log.py|__console] [line:46] ERROR   : 'NoneType' object has no attribute 'click'
+[2022-06-27 10:53:28,938] [log.py|__console] [line:46] ERROR   : Message: element not interactable
+  (Session info: chrome=100.0.4896.127)
+

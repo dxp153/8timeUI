@@ -1,0 +1,4 @@
+[2022-06-24 11:41:59,186] [log.py|__console] [line:40] INFO    : 输入手机号-- .phone_num .el-input__inner
+[2022-06-24 11:41:59,265] [log.py|__console] [line:40] INFO    : 输入密码-- .login_mode .el-input__inner
+[2022-06-24 11:41:59,329] [log.py|__console] [line:40] INFO    : 点击登录-- #pane-phoneLogin button
+[2022-06-24 11:42:01,370] [log.py|__console] [line:40] INFO    : 查看系统提示是否显示-- .el-message--error .el-message__content

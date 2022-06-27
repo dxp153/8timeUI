@@ -1,0 +1,15 @@
+[2022-06-27 16:17:34,239] [log.py|__console] [line:40] INFO    : 输入手机号-- .phone_num .el-input__inner
+[2022-06-27 16:17:34,324] [log.py|__console] [line:40] INFO    : 输入密码-- .login_mode .el-input__inner
+[2022-06-27 16:17:34,395] [log.py|__console] [line:40] INFO    : 点击登录-- #pane-phoneLogin button
+[2022-06-27 16:17:35,463] [log.py|__console] [line:40] INFO    : 定位工作台侧边栏菜单-- .el-menu-item.is-active span
+[2022-06-27 16:17:35,730] [log.py|__console] [line:40] INFO    : 点击个人审批的快捷跳转-- //div[text()='个人审批']/..
+[2022-06-27 16:17:36,781] [log.py|__console] [line:40] INFO    : 定位工作台侧边栏菜单-- .el-menu-item.is-active span
+[2022-06-27 16:17:36,821] [log.py|__console] [line:40] INFO    : 点击讯息看板的快捷跳转-- //div[text()='讯息看板']/..
+[2022-06-27 16:17:57,368] [log.py|__console] [line:46] ERROR   : <pages.workbench.Workbench object at 0x000000000393FC70>页面未找到('xpath', "//div[text()='讯息看板']/..")元素
+[2022-06-27 16:17:57,397] [log.py|__console] [line:40] INFO    : 点击证照档案的快捷跳转-- //div[text()='证照档案']/..
+[2022-06-27 16:18:17,938] [log.py|__console] [line:46] ERROR   : <pages.workbench.Workbench object at 0x000000000393FC70>页面未找到('xpath', "//div[text()='证照档案']/..")元素
+[2022-06-27 16:18:17,950] [log.py|__console] [line:40] INFO    : 点击我的绩效的快捷跳转-- //div[text()='我的绩效']/..
+[2022-06-27 16:18:38,463] [log.py|__console] [line:46] ERROR   : <pages.workbench.Workbench object at 0x000000000393FC70>页面未找到('xpath', "//div[text()='我的绩效']/..")元素
+[2022-06-27 16:18:38,478] [log.py|__console] [line:40] INFO    : 点击我的客户的快捷跳转-- //div[text()='我的客户']/..
+[2022-06-27 16:18:59,015] [log.py|__console] [line:46] ERROR   : <pages.workbench.Workbench object at 0x000000000393FC70>页面未找到('xpath', "//div[text()='我的客户']/..")元素
+[2022-06-27 16:18:59,027] [log.py|__console] [line:40] INFO    : 点击最新的一条消息提醒-- .news_title.clearfix+div

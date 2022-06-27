@@ -1,0 +1,8 @@
+定位方式-》css selector,value值-》.phone_num .el-input__inner
+定位方式-》css selector,value值-》.login_mode .el-input__inner
+定位方式-》css selector,value值-》#pane-phoneLogin button
+定位方式-》xpath,value值-》//span[text()='招聘职位']/../..
+定位方式-》xpath,value值-》//span[text()='招聘职位']/../..
+定位方式-》xpath,value值-》//span[text()='招聘职位']
+定位方式-》css selector,value值-》.avatar-wrapper.el-dropdown-selfdefine
+定位方式-》xpath,value值-》//span[text()='退出登录']/..

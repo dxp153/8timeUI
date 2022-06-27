@@ -1,0 +1,17 @@
+[32mINFO    [0m root:log.py:40 点击个人审批的快捷跳转-- //div[text()='个人审批']/..
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:58018/session/1368c8fbf1a74ec530c957691d1f2f66/element {"using": "xpath", "value": "//div[text()='\u4e2a\u4eba\u5ba1\u6279']/.."}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:58018 "POST /session/1368c8fbf1a74ec530c957691d1f2f66/element HTTP/1.1" 200 88
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:58018/session/1368c8fbf1a74ec530c957691d1f2f66/element/1be523d2-a00f-424e-b1d6-875163944666/click {"id": "1be523d2-a00f-424e-b1d6-875163944666"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:58018 "POST /session/1368c8fbf1a74ec530c957691d1f2f66/element/1be523d2-a00f-424e-b1d6-875163944666/click HTTP/1.1" 200 14
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 GET http://127.0.0.1:58018/session/1368c8fbf1a74ec530c957691d1f2f66/alert/text {}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:58018 "GET /session/1368c8fbf1a74ec530c957691d1f2f66/alert/text HTTP/1.1" 404 885
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[32mINFO    [0m root:log.py:40 定位工作台侧边栏菜单-- .el-menu-item.is-active span
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:58018/session/1368c8fbf1a74ec530c957691d1f2f66/element {"using": "css selector", "value": ".el-menu-item.is-active span"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:58018 "POST /session/1368c8fbf1a74ec530c957691d1f2f66/element HTTP/1.1" 200 88
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 GET http://127.0.0.1:58018/session/1368c8fbf1a74ec530c957691d1f2f66/element/225cc150-e2c2-448e-b1e4-49bbb09a79fa/text {"id": "225cc150-e2c2-448e-b1e4-49bbb09a79fa"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:433 http://127.0.0.1:58018 "GET /session/1368c8fbf1a74ec530c957691d1f2f66/element/225cc150-e2c2-448e-b1e4-49bbb09a79fa/text HTTP/1.1" 200 12
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request

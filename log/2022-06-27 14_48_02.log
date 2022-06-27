@@ -1,0 +1,4 @@
+[2022-06-27 14:48:05,337] [log.py|__console] [line:40] INFO    : 输入手机号-- .phone_num .el-input__inner
+[2022-06-27 14:48:05,463] [log.py|__console] [line:40] INFO    : 输入密码-- .login_mode .el-input__inner
+[2022-06-27 14:48:05,534] [log.py|__console] [line:40] INFO    : 点击登录-- #pane-phoneLogin button
+[2022-06-27 14:48:19,282] [log.py|__console] [line:46] ERROR   : <__main__.Login object at 0x00000000028C6910>页面未找到('css selector', "//span[text()='退出登录']")元素

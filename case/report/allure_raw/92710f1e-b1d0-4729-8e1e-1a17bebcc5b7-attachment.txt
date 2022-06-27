@@ -1,0 +1,2 @@
+[2022-06-27 15:46:58,584] [log.py|__console] [line:40] INFO    : 点击最新的一条消息提醒-- .news_title.clearfix+div
+[2022-06-27 15:47:19,123] [log.py|__console] [line:46] ERROR   : <pages.workbench.Workbench object at 0x0000000003511F10>页面未找到('css selector', '.news_title.clearfix+div')元素

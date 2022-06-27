@@ -1,0 +1,10 @@
+[2022-06-25 10:31:08,618] [log.py|__console] [line:40] INFO    : 输入手机号-- .phone_num .el-input__inner
+[2022-06-25 10:31:08,699] [log.py|__console] [line:40] INFO    : 输入密码-- .login_mode .el-input__inner
+[2022-06-25 10:31:08,769] [log.py|__console] [line:40] INFO    : 点击登录-- #pane-phoneLogin button
+[2022-06-25 10:31:09,465] [log.py|__console] [line:46] ERROR   : Message: element not interactable
+  (Session info: chrome=100.0.4896.127)
+
+[2022-06-25 10:31:25,162] [log.py|__console] [line:46] ERROR   : <pages.switch_module.Switch_Module object at 0x00000000039CABB0>页面未找到('xpath', "//li[@class='el-submenu is-opened']//span[text()='讯息审核']")元素
+[2022-06-25 10:31:25,163] [log.py|__console] [line:46] ERROR   : 'NoneType' object has no attribute 'click'
+[2022-06-25 10:31:40,404] [log.py|__console] [line:46] ERROR   : <pages.switch_module.Switch_Module object at 0x00000000039CABB0>页面未找到('xpath', "//li[@class='el-submenu is-opened']//span[text()='企业通知']")元素
+[2022-06-25 10:31:40,405] [log.py|__console] [line:46] ERROR   : 'NoneType' object has no attribute 'click'

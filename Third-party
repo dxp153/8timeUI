@@ -1,0 +1,19 @@
+用例执行：
+cd到.py文件所在的目录，在命令行执行pytest --alluredir ./report/allure_raw
+执行完成后，在当前目录下，report目录会生成一个allure_raw的原始文件，这个只是测试报告的原始文件，不能打开成html的报告
+
+报告生成：
+打开html的报告需要启动allure服务，启动命令如下allure serve report/allure_raw
+生成报告命令
+pytest --alluredir ./report/allure_raw  --clean-alluredir  清除历史记录
+pytest --alluredir ./report/allure_raw --allure-epics=接取订单 --clean-alluredir
+
+
+环境配置：
+pip install selenium        selenium--元素定位
+pip install pytest          pytest--框架
+pip install pytest-rerunfailures    失败重跑  .py --reruns 1
+### pip install pytest-html     安装pytest自带的测试报告包
+pip install allure-pytest       allure--生成自动化测试报告
+pip install pytest-assume       pytest-assume插件可以解决断言失败后继续断言的问题　
+pip install pymysql         pymysql--python连接数据库

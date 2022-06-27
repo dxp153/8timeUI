@@ -1,0 +1,8 @@
+[2022-06-27 14:50:36,482] [log.py|__console] [line:40] INFO    : 输入手机号-- .phone_num .el-input__inner
+[2022-06-27 14:50:36,559] [log.py|__console] [line:40] INFO    : 输入密码-- .login_mode .el-input__inner
+[2022-06-27 14:50:36,633] [log.py|__console] [line:40] INFO    : 点击登录-- #pane-phoneLogin button
+[2022-06-27 14:50:46,669] [log.py|__console] [line:46] ERROR   : <pages.switch_module.Switch_Module object at 0x00000000039CA610>页面未找到('xpath', "//li[@class='el-submenu is-opened' or @class='el-submenu is-active is-opened']//span[text()='付费管理']")元素
+[2022-06-27 14:50:46,726] [log.py|__console] [line:46] ERROR   : <pages.switch_module.Switch_Module object at 0x00000000039CA610>页面未找到('xpath', "//span[text()='企业中心']")元素
+[2022-06-27 14:50:46,765] [log.py|__console] [line:46] ERROR   : <pages.switch_module.Switch_Module object at 0x00000000039CA610>页面未找到('xpath', "//span[text()='企业中心']")元素
+[2022-06-27 14:50:46,810] [log.py|__console] [line:46] ERROR   : <pages.switch_module.Switch_Module object at 0x00000000039CA610>页面未找到('xpath', "//span[text()='企业中心']")元素
+[2022-06-27 14:50:46,911] [log.py|__console] [line:46] ERROR   : <pages.switch_module.Switch_Module object at 0x00000000039CA610>页面未找到('xpath', "//span[text()='企业中心']")元素

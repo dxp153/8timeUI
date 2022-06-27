@@ -1,0 +1,8 @@
+[2022-06-27 15:47:55,353] [log.py|__console] [line:40] INFO    : 输入手机号-- .phone_num .el-input__inner
+[2022-06-27 15:47:55,433] [log.py|__console] [line:40] INFO    : 输入密码-- .login_mode .el-input__inner
+[2022-06-27 15:47:55,510] [log.py|__console] [line:40] INFO    : 点击登录-- #pane-phoneLogin button
+[2022-06-27 15:47:58,617] [log.py|__console] [line:40] INFO    : 输入手机号-- .phone_num .el-input__inner
+[2022-06-27 15:47:58,701] [log.py|__console] [line:40] INFO    : 输入密码-- .login_mode .el-input__inner
+[2022-06-27 15:47:58,769] [log.py|__console] [line:40] INFO    : 点击登录-- #pane-phoneLogin button
+[2022-06-27 15:48:00,919] [log.py|__console] [line:40] INFO    : 输入手机号-- .phone_num .el-input__inner
+[2022-06-27 15:48:11,163] [log.py|__console] [line:46] ERROR   : <pages.login.Login object at 0x00000000037CAAC0>页面未找到('css selector', '.phone_num .el-input__inner')元素

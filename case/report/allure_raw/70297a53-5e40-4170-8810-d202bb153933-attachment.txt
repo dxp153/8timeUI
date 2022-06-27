@@ -1,0 +1,2 @@
+[2022-06-27 15:46:37,880] [log.py|__console] [line:40] INFO    : 点击我的客户的快捷跳转-- //div[text()='我的客户']/..
+[2022-06-27 15:46:58,556] [log.py|__console] [line:46] ERROR   : <pages.workbench.Workbench object at 0x0000000003511F10>页面未找到('xpath', "//div[text()='我的客户']/..")元素

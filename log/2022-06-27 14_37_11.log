@@ -1,0 +1,4 @@
+[2022-06-27 14:37:15,684] [log.py|__console] [line:40] INFO    : 输入手机号-- .phone_num .el-input__inner
+[2022-06-27 14:37:15,771] [log.py|__console] [line:40] INFO    : 输入密码-- .login_mode .el-input__inner
+[2022-06-27 14:37:15,849] [log.py|__console] [line:40] INFO    : 点击登录-- #pane-phoneLogin button
+[2022-06-27 14:37:32,497] [log.py|__console] [line:46] ERROR   : <pages.switch_module.Switch_Module object at 0x00000000039C14F0>页面未找到('xpath', "//li[@class='el-submenu is-opened' or @class='el-submenu is-active is-opened']//span[text()='付费管理']")元素
